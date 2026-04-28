@@ -9,4 +9,4 @@ Frontend engineer for hire - agentic development.
 - Also working with SwiftUI, Flutter, Android, and Wear OS since 2026
 - Based in Mauritius
 
-![GitHub Stats](./profile/stats.svg)
+![GitHub Stats](https://github-readme-stats-cedpoilly.vercel.app/api?username=cedpoilly&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
