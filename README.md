@@ -1,22 +1,11 @@
-# Cedric
+# cedpoilly
 
-I build small, useful products around real workflows: event communities, live games, personal focus tools, local AI assistants, and automation systems.
+Frontend engineer, streamer, and JavaScript coach building products from Mauritius.
 
-Most of my current product code lives in private repositories. This profile is the public shelf: what the products do, what shipped, and where you can try or inspect the work.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cedpoilly&show_icons=true&theme=github_dark&hide_border=true)
 
-## Current Focus
-
-I am currently building [LePopQuiz](https://lepopquiz.app), a multiplayer quiz product for live events, classrooms, bars, and online games.
-
-## What I Usually Build
-
-- Product prototypes that become real daily tools
-- Nuxt, Vue, TypeScript, Node.js, SwiftUI, Flutter, Android, and Wear OS apps
-- Developer-community tools for Coders.mu and Front-End Coders Mauritius
-- Local-first AI and automation workflows for my own machine
-- Practical deployment pipelines with Docker, GHCR, Coolify, GitHub Actions, and health checks
-
-## Public Links
-
-- LinkedIn: [in/cedpoilly](https://www.linkedin.com/in/cedpoilly)
-- Twitch: [cedpoilly](https://www.twitch.tv/cedpoilly)
+- Building [LePopQuiz](https://lepopquiz.app) for live events, classrooms, bars, and online games
+- Sharing work and experiments on [Twitch](https://www.twitch.tv/cedpoilly)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/cedpoilly)
+- Working with Nuxt, Vue, TypeScript, Node.js, SwiftUI, Flutter, Android, and Wear OS
+- Based in Mauritius
